@@ -1,0 +1,43 @@
+.container-title{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+
+.formkonecta{
+    width:500px;
+	padding:30px;
+	background-color: whitesmoke;
+    margin: auto;
+    margin-top: 20px;
+    border: radius 4px; 
+    color: black;
+}
+
+.formkonecta-input{
+    width: 100%;
+    display:flex;
+    margin-bottom: 20px;
+}
+
+.formkonecta-input label{
+    width: 40%;
+}
+
+.formkonecta-button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.formkonecta-table{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.formkonecta-table table{
+    width: 80%;
+    margin: auto;
+}
+
